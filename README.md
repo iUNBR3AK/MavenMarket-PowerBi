@@ -27,7 +27,7 @@ Das Dashboard gliedert sich in drei spezialisierte Berichtsseiten für unterschi
   * Globale Vertriebskarte zur visuellen Analyse der Standorte in Nord- und Südamerika.
   * Wöchentlicher Umsatztrend (**Weekly Revenue Trending**) sowie eine Ranking-Tabelle aller Herstellermarken nach Transaktionen, Profit, Marge und Retourenquote.
 
-> ![Topline Performance Dashboard](Topline_Performance.png)
+> ![Topline Performance Dashboard](img_dashboard/Topline_Performance.png)
 
 ### 2. 🏷️ Product Brand Detail (Produkt- & Herstellerebene)
 **Fokus:** Detaillierte Produkt- und Markenanalyse zur Identifikation von Bestsellern und Problemprodukten.
@@ -37,7 +37,7 @@ Das Dashboard gliedert sich in drei spezialisierte Berichtsseiten für unterschi
   * Zeitreihen-Analyse für monatliche Produkt-Retouren (**Monthly Total Product Returns**).
   * Gegenüberstellung der Top 10 Produkte nach Umsatz vs. Produkte mit den höchsten Retourenquoten (**High Return Products**).
 
-> ![Product Brand Detail Dashboard](Product_Brand_Detail.png)
+> ![Product Brand Detail Dashboard](img_dashboard/Product_Brand_Detail.png)
 
 ### 3. 👥 Customer Detail (Kunden- & Kohortenanalyse)
 **Fokus:** Analyse der Kundenbasis, Churn-Messung und Identifikation wertvoller Kunden.
@@ -47,7 +47,7 @@ Das Dashboard gliedert sich in drei spezialisierte Berichtsseiten für unterschi
   * Entwicklung der aktiven Kunden im Zeitverlauf.
   * **Top 10 Kunden-Ranking** inkl. Transaktionen, Gesamtumsatz und vorhergesagtem *Predictive Customer Lifetime Value (CLV)*.
 
-> ![Customer Detail Dashboard](Customer_Detail.png)
+> ![Customer Detail Dashboard](img_dashboard/Customer_Detail.png)
 
 ## 💡 Key Business Insights (Beispiele aus den Analysen)
 1. **Retouren-Management:** Durch die Analyse im *Product Brand Detail* lassen sich gezielt Einzelprodukte identifizieren, die trotz hoher Umsätze überproportional viele Retouren verursachen.
