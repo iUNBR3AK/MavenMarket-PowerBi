@@ -1,4 +1,4 @@
-# 🛒 Maven Market – Business Intelligence & Analytics Portfolio
+# Maven Market – Business Intelligence & Analytics Portfolio
 
 > **Ein privates Portfolio-Projekt zur Analyse von Unternehmensleistung, Produktgruppen und Kundenverhalten eines globalen Einzelhändlers.**
 >
@@ -9,17 +9,17 @@ Dieses Projekt wurde im Rahmen meines persönlichen Portfolios entwickelt, um ei
 
 Das Hauptziel ist es, Geschäftsdaten des Einzelhändlers *Maven Market* nutzbar zu machen, operative KPIs zu überwachen und strategische Erkenntnisse für Vertrieb, Produktmanagement und Kundenbindung zu liefern.
 
-### 🛠️ Tech Stack & Key Skills
+### Tech Stack & Key Skills
 **Business Intelligence:** Microsoft Power BI Desktop
 **Datenaufbereitung:** Power Query (ETL-Prozess: Datenimport, Bereinigung & Datentyp-Transformationen)
 **Datenmodellierung:** Erweitertes Sternschema / Schneeflockenschema (Snowflake Schema) zur Optimierung der Performance
 **Analytics:** DAX (Time Intelligence, KPI Target-Vergleiche, Customer Lifetime Value)
 **UI/UX Design:** Konsistentes Branding, barrierearme Farbpalette (Grün/Rot-Kontraste), interaktive Filter & Drill-Downs
 
-## 🖼️ Dashboard-Übersicht & Funktionalitäten
+## Dashboard-Übersicht & Funktionalitäten
 Das Dashboard gliedert sich in drei spezialisierte Berichtsseiten für unterschiedliche Stakeholder-Ebenen:
 
-### 1. 📈 Topline Performance (Executive Level)
+### 1. Topline Performance
 **Fokus:** C-Level Übersicht über operative Gesamtkennzahlen und weltweite Leistung.
 **Kernfunktionen:**
   * High-Level KPIs für Transaktionen, Gesamtgewinn und Retouren mit Trend-Sparklines.
@@ -29,7 +29,7 @@ Das Dashboard gliedert sich in drei spezialisierte Berichtsseiten für unterschi
 
 > ![Topline Performance Dashboard](img_dashboard/Topline_Performance.png)
 
-### 2. 🏷️ Product Brand Detail (Produkt- & Herstellerebene)
+### 2. Product Brand Detail
 **Fokus:** Detaillierte Produkt- und Markenanalyse zur Identifikation von Bestsellern und Problemprodukten.
 **Kernfunktionen:**
   * Drill Through Filterung nach spezifischen Herstellern (z. B. *Steady*).
@@ -39,7 +39,7 @@ Das Dashboard gliedert sich in drei spezialisierte Berichtsseiten für unterschi
 
 > ![Product Brand Detail Dashboard](img_dashboard/Product_Brand_Detail.png)
 
-### 3. 👥 Customer Detail (Kunden- & Kohortenanalyse)
+### 3. Customer Detail
 **Fokus:** Analyse der Kundenbasis, Churn-Messung und Identifikation wertvoller Kunden.
 **Kernfunktionen:**
   * Tracking aktiver Kunden (letzte 90 Tage) vs. abgewanderter Kunden (**Churned Customers**).
@@ -49,7 +49,7 @@ Das Dashboard gliedert sich in drei spezialisierte Berichtsseiten für unterschi
 
 > ![Customer Detail Dashboard](img_dashboard/Customer_Detail.png)
 
-## 💡 Key Business Insights (Beispiele aus den Analysen)
+## Key Business Insights
 1. **Retouren-Management:** Durch die Analyse im *Product Brand Detail* lassen sich gezielt Einzelprodukte identifizieren, die trotz hoher Umsätze überproportional viele Retouren verursachen.
 2. **Zielgruppenorientiertes Marketing:** Da die Berufsgruppe Professional den größten Teil aller Transaktionen ausmacht, können Marketingbudget und Aktionen exakt auf diese Hauptzielgruppe zugeschnitten werden.
 3. **Erfolgreichste Herstellermarke:** Im Topline-Dashboard hebt sich Tell Tale als absolute Spitzenmarke mit dem höchsten Monatsgewinn (29.926 €) hervor, gefolgt von Tri-State. Diese Marken bilden das wirtschaftliche Rückgrat des Sortiments.
