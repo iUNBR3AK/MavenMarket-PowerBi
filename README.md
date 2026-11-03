@@ -7,7 +7,8 @@
 ## Projektüberblick & Zielsetzung
 Dieses Projekt habe ich für mein persönlichen Portfolios entwickelt, um einen vollständigen **Data Analytics Workflow** von der Datenaufbereitung bis zum interaktiven Dashboard-Design zu demonstrieren. 
 
-Das Hauptziel ist es, Geschäftsdaten des Einzelhändlers *Maven Market* nutzbar zu machen, operative KPIs zu überwachen und strategische Erkenntnisse für Vertrieb, Produktmanagement und Kundenbindung zu liefern.
+Das Hauptziel ist es, Geschäftsdaten des Einzelhändlers *Maven Market* nutzbar zu machen, operative KPIs zu überwachen und strategische Erkenntnisse für Vertrieb, Produktmanagement und Kundenbindung zu liefern.  
+Die hierbei verwendeten Daten sind fiktiv.  
 
 ### Tech Stack & Key Skills  
 **Business Intelligence:** Microsoft Power BI Desktop  
